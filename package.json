@@ -5,6 +5,7 @@
   },
   "scripts": {
     "dev": "vuepress dev blog",
-    "build": "vuepress build blog"
+    "build": "vuepress build blog",
+    "eject": "vuepress eject"
   }
 }
