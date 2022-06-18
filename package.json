@@ -1,7 +1,8 @@
 {
   "devDependencies": {
     "@vuepress/theme-blog": "^2.3.3",
-    "vuepress": "^1.9.7"
+    "vuepress": "^1.9.7",
+    "vuepress-theme-blog-vuetify": "^1.6.2"
   },
   "scripts": {
     "dev": "vuepress dev blog",
